@@ -31,6 +31,9 @@ $breakpoint argument choices:
 1em = 16px
 ex.: 600px / 16px = 37.5em
 
+
+ORDER: Base + typography > general layout + grid > page layout > components
+
 */
 
 @mixin respond($breakpoint) {
